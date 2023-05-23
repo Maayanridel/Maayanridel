@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Maayanridel
 - 👀 I’m interested in Social media, data science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for ...
-- 📫 How to reach me ...
+
 
 <!---
 Maayanridel/Maayanridel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
